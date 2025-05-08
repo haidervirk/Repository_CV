@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471605593683",
+    "project_id": "hatch-783af",
+    "storage_bucket": "hatch-783af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471605593683:android:0b762fbae37cc9b7b4e8a6",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChq60CbBqrheFtmi905fDvGeaFrcjO_LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

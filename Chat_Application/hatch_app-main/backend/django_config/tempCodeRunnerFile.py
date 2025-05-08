@@ -1,0 +1,1 @@
+WSGI_APPLICATION = "django_config.wsgi.application"
